@@ -1,2 +1,3 @@
 # Blog
-Arrange My Log and Stduy
+
+일상과 공부 기록 
